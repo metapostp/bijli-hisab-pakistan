@@ -1,0 +1,6 @@
+{
+  "name": "SELLINIX TECH",
+  "description": "Smart electricity bill splitting and tariff calculations by Sellinix Tech. Complete slab rates, peak/off-peak billing, and transparent distribution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
